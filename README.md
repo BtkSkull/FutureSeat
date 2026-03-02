@@ -104,38 +104,38 @@ Database
 
 # How It Works
 
-User enters rank and category
+- User enters rank and category
 
-Backend retrieves relevant cutoff data
+- Backend retrieves relevant cutoff data
 
-Feasibility engine computes rank gap
+- Feasibility engine computes rank gap
 
-Colleges classified into Safe / Target / Dream
+- Colleges classified into Safe / Target / Dream
 
-Strategy planner generates round-wise plan
+- Strategy planner generates round-wise plan
 
-User can simulate alternative scenarios
+- User can simulate alternative scenarios
 
 # Future Scope
 
-Multi-exam support (JEE, MHT-CET, etc.)
+- Multi-exam support (JEE, MHT-CET, etc.)
 
-Placement trend analytics
+- Placement trend analytics
 
-ROI-based branch optimization
+- ROI-based branch optimization
 
-AI-based counseling assistant
+- AI-based counseling assistant
 
-Multi-year trend forecasting
+- Multi-year trend forecasting
 
 # Demo Flow
 
-Enter rank and category
+- Enter rank and category
 
-View structured dashboard
+- View structured dashboard
 
-Add colleges to strategy
+- Add colleges to strategy
 
-Generate round-wise plan
+- Generate round-wise plan
 
-Run What-if simulation
+- Run What-if simulation
